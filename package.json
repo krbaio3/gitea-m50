@@ -1,0 +1,13 @@
+{
+  "name": "gitea-m50",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "docker-compose -f gitea/docker-compose.yaml up -d"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
